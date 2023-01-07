@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/test-area.gavindr1.repl.co.ico",
     "slug": "drip-server",
     "status": "up",
-    "uptime": "53.15%",
-    "uptimeDay": "53.15%",
-    "uptimeWeek": "53.15%",
-    "uptimeMonth": "53.15%",
-    "uptimeYear": "53.15%",
+    "uptime": "85.20%",
+    "uptimeDay": "85.20%",
+    "uptimeWeek": "85.20%",
+    "uptimeMonth": "85.20%",
+    "uptimeYear": "85.20%",
     "time": 2797,
     "timeDay": 2797,
     "timeWeek": 2797,
@@ -24,19 +24,19 @@
     "url": "https://modmailbot.gavindr1.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/modmailbot.gavindr1.repl.co.ico",
     "slug": "mod-mail",
-    "status": "down",
+    "status": "up",
     "uptime": "0.07%",
     "uptimeDay": "0.07%",
     "uptimeWeek": "0.07%",
     "uptimeMonth": "0.07%",
     "uptimeYear": "0.07%",
-    "time": 8483,
-    "timeDay": 8483,
-    "timeWeek": 8483,
-    "timeMonth": 8483,
-    "timeYear": 8483,
+    "time": 5782,
+    "timeDay": 5782,
+    "timeWeek": 5782,
+    "timeMonth": 5782,
+    "timeYear": 5782,
     "dailyMinutesDown": {
-      "2023-01-07": 27
+      "2023-01-07": 87
     }
   }
 ]
