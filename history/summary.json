@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2023-04-07": 1251,
+      "2023-04-07": 1270,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
@@ -84,7 +84,7 @@
     "url": "https://modmailbot.gavindr1.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/modmailbot.gavindr1.repl.co.ico",
     "slug": "mod-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
     "uptimeDay": "85.10%",
     "uptimeWeek": "97.03%",
