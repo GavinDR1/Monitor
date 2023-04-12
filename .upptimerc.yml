@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Gavin Bots Status Manager
   introTitle: "**Status Manager**"
-  introMessage: This is a waste of time of your life of reading this, go do someing like read book or play a game or go outside
+  introMessage: This is a waste of time of your life of reading this, go do something else like read a book or play a game or go outside or idk just do something else.
   navbar:
     - title: Status
       href: /
