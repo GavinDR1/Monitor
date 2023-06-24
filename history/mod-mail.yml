@@ -1,7 +1,7 @@
 url: https://modmailbot.gavindr1.repl.co
-status: up
-code: 200
-responseTime: 11549
-lastUpdated: 2023-06-24T03:18:04.860Z
+status: down
+code: 500
+responseTime: 321
+lastUpdated: 2023-06-24T07:38:54.936Z
 startTime: Sat Jan 07 2023 05:03:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
