@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2023-07-21": 910,
+      "2023-07-21": 917,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -241,19 +241,19 @@
     "url": "https://darkamusingcomputeranimation.gavindr1.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/darkamusingcomputeranimation.gavindr1.repl.co.ico",
     "slug": "countr",
-    "status": "down",
-    "uptime": "4.50%",
-    "uptimeDay": "4.50%",
-    "uptimeWeek": "4.50%",
-    "uptimeMonth": "4.50%",
-    "uptimeYear": "4.50%",
-    "time": 307,
-    "timeDay": 307,
-    "timeWeek": 307,
-    "timeMonth": 307,
-    "timeYear": 307,
+    "status": "up",
+    "uptime": "1.85%",
+    "uptimeDay": "1.85%",
+    "uptimeWeek": "1.85%",
+    "uptimeMonth": "1.85%",
+    "uptimeYear": "1.85%",
+    "time": 9424,
+    "timeDay": 9424,
+    "timeWeek": 9424,
+    "timeMonth": 9424,
+    "timeYear": 9424,
     "dailyMinutesDown": {
-      "2023-07-21": 0
+      "2023-07-21": 6
     }
   }
 ]
