@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "drip-server",
     "status": "down",
-    "uptime": "7.50%",
+    "uptime": "7.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-27": 57,
+      "2024-03-28": 58,
+      "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -379,8 +380,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
-      "2023-03-30": 1440,
-      "2023-03-29": 1440
+      "2023-03-30": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/modmailbot.gavindr1.repl.co.ico",
     "slug": "mod-mail",
     "status": "up",
-    "uptime": "93.68%",
+    "uptime": "93.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.44%",
-    "time": 1754,
-    "timeDay": 647,
-    "timeWeek": 817,
-    "timeMonth": 734,
+    "time": 1743,
+    "timeDay": 662,
+    "timeWeek": 763,
+    "timeMonth": 721,
     "timeYear": 1813,
     "dailyMinutesDown": {
       "2024-02-07": 1366,
@@ -455,8 +455,7 @@
       "2023-05-13": 28,
       "2023-05-10": 19,
       "2023-04-07": 236,
-      "2023-04-03": 85,
-      "2023-03-29": 29
+      "2023-04-03": 85
     }
   },
   {
@@ -465,18 +464,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/darkamusingcomputeranimation.gavindr1.repl.co.ico",
     "slug": "countr",
     "status": "down",
-    "uptime": "66.44%",
+    "uptime": "66.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "66.44%",
-    "time": 1885,
-    "timeDay": 1220,
-    "timeWeek": 515,
-    "timeMonth": 502,
-    "timeYear": 1885,
+    "uptimeYear": "66.17%",
+    "time": 1883,
+    "timeDay": 1198,
+    "timeWeek": 644,
+    "timeMonth": 531,
+    "timeYear": 1883,
     "dailyMinutesDown": {
-      "2024-03-27": 57,
+      "2024-03-28": 58,
+      "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
