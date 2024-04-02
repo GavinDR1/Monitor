@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 1174,
+      "2024-04-02": 61,
+      "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -379,8 +380,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 1440
+      "2023-04-04": 1440
     }
   },
   {
@@ -390,17 +390,16 @@
     "slug": "mod-mail",
     "status": "up",
     "uptime": "93.76%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "92.45%",
-    "time": 1744,
-    "timeDay": 878,
-    "timeWeek": 736,
-    "timeMonth": 718,
-    "timeYear": 1810,
+    "time": 1745,
+    "timeDay": 779,
+    "timeWeek": 729,
+    "timeMonth": 724,
+    "timeYear": 1811,
     "dailyMinutesDown": {
-      "2024-04-01": 8,
       "2024-02-07": 1366,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
@@ -455,8 +454,7 @@
       "2023-05-18": 108,
       "2023-05-13": 28,
       "2023-05-10": 19,
-      "2023-04-07": 236,
-      "2023-04-03": 85
+      "2023-04-07": 236
     }
   },
   {
@@ -465,18 +463,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/darkamusingcomputeranimation.gavindr1.repl.co.ico",
     "slug": "countr",
     "status": "down",
-    "uptime": "64.93%",
+    "uptime": "64.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.93%",
-    "time": 1872,
-    "timeDay": 501,
-    "timeWeek": 877,
-    "timeMonth": 568,
-    "timeYear": 1872,
+    "uptimeYear": "64.87%",
+    "time": 1871,
+    "timeDay": 1307,
+    "timeWeek": 982,
+    "timeMonth": 593,
+    "timeYear": 1871,
     "dailyMinutesDown": {
-      "2024-04-01": 1174,
+      "2024-04-02": 61,
+      "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
