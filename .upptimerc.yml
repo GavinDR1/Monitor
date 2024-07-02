@@ -3,14 +3,8 @@ owner: GavinDR1 # Your GitHub organization or username, where this repository li
 repo: Monitor # The name of this repository
 
 sites:
-  - name: Drip Server
-    url: $DRIP_SERVER
-  - name: ModMail
-    url: https://modmailbot.gavindr1.repl.co
-  - name: Countr
-    url: https://darkamusingcomputeranimation.gavindr1.repl.co
-    expectedStatusCodes:
-      - 426
+  - name: Sadness
+    url: google.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
