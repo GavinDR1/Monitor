@@ -4,17 +4,19 @@
     "url": "google.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sadness",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 78,
-    "timeWeek": 124,
-    "timeMonth": 96,
-    "timeYear": 123,
-    "dailyMinutesDown": {}
+    "timeDay": 233,
+    "timeWeek": 157,
+    "timeMonth": 105,
+    "timeYear": 124,
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   }
 ]
