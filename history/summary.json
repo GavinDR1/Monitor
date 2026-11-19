@@ -4,15 +4,15 @@
     "url": "google.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sadness",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "75.28%",
+    "uptimeWeek": "96.47%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.90%",
     "time": 136,
-    "timeDay": 213,
-    "timeWeek": 135,
+    "timeDay": 180,
+    "timeWeek": 133,
     "timeMonth": 114,
     "timeYear": 143,
     "dailyMinutesDown": {
@@ -20,7 +20,8 @@
       "2026-08-17": 30,
       "2026-09-23": 73,
       "2026-09-22": 12,
-      "2026-11-18": 0
+      "2026-11-19": 45,
+      "2026-11-18": 310
     }
   }
 ]
